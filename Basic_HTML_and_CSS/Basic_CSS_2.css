@@ -1,0 +1,9 @@
+p {
+    background-color: grey;
+    color: rgb(190, 149, 240);
+    text-decoration: wavy;
+    text-shadow: 0 0 3px rgb(19, 218, 249);
+    font-weight: bold;
+    font-size: larger;  
+    text-align: center;  
+}

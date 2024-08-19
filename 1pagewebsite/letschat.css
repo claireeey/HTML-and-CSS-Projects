@@ -1,0 +1,8 @@
+.effect-two p {
+    color: saddlebrown;
+    text-decoration: wavy;
+    text-shadow: 0 0 3px sandybrown;
+    font-weight: bold;
+    font-size: larger;  
+    text-align: center;  
+}

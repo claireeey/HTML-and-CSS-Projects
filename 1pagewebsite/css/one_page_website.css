@@ -1,0 +1,29 @@
+html {
+    width: 100%;
+    margin: 0% auto;
+    border: 5px dotted #dc27f4;
+    border-radius: 10px;
+}
+
+/*------------------------
+QUESTION STYLES
+------------------------*/
+.question h3 span {
+    font-family: serif;
+    font-size: 100%;
+    text-align: center;
+    margin: 0 auto;
+    color: #952651;
+}
+
+/*------------------------
+LETS CHAT STYLES
+------------------------*/
+.effect-two p {
+    color: saddlebrown;
+    text-decoration: wavy;
+    text-shadow: 0 0 3px sandybrown;
+    font-weight: bold;
+    font-size: larger;  
+    text-align: center;  
+}
